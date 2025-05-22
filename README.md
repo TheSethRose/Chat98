@@ -1,6 +1,6 @@
 # ~*~ Chat98 - AIM Style Chat App ~*~
 
-OMGZ!! Welcome to Chat98, ur new fave AIM-style chat app! It's like, totally retro and kewl. Get ready to chat like it's 1999! LOL!
+OMGZ!! Welcome to Chat98, ur new fave AIM-style chat app! It's like, totally retro and kewl. Get ready to chat like it's 1998! LOL!
 
 ## !! GETTIN STARTED !!
 
